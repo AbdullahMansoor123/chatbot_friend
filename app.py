@@ -47,9 +47,6 @@ and reflections that highlight your warmth and ability to connect authentically.
 """
 
 
-
-
-
 load_dotenv()
 os.environ.get("OPENAI_API_KEY")
 client = OpenAI()
